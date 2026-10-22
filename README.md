@@ -84,7 +84,7 @@ A comprehensive web-based school management system built with Next.js, TypeScrip
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/blutech18/schoolmg.git
+   git clone https://github.com/cristanjdev/schoolmg.git
    cd schoolmgtsystem-main
    ```
 
